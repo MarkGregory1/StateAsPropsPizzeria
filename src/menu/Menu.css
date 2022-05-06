@@ -1,0 +1,19 @@
+.Menu {
+    background-color: red;
+    width: 600px;
+    margin: 20px auto;
+    display: flex;
+    flex-direction: column;
+    color: white;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
+  .Menu-title {
+    text-decoration: underline;
+    text-align: center;
+  }
+  
+  .Menu h2 {
+    text-align: right;
+  }
